@@ -1,5 +1,5 @@
 # Csharp-Documentation-Reader
-### Version: 1.0.0
+### Version: 1.0.1
 A tool for reading C# documentation and for keeping track of what I've
 already read.
 
@@ -27,6 +27,12 @@ the repository.
 4. os
 
 ### Versioning
+
+#### 1.0.1
+
+- Fixed bug with project folder in "load_next_article.py" being
+   incorrect.
+- Updated ".gitignore" to ignore the current article PDF.
 
 #### 1.0.0
 

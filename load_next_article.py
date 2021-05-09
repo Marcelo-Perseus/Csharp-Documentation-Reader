@@ -25,7 +25,7 @@ from PyPDF2 import PdfFileReader, PdfFileWriter
 import os
 
 # Define the project folder.
-proj_folder = "Projects/C# Documentation Scraper"
+proj_folder = "Projects/Csharp-Documentation-Reader"
 
 # Connect to the database.
 conn = sqlite3.connect(f"{proj_folder}/res/database.db")
