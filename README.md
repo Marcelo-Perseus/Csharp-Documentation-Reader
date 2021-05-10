@@ -1,5 +1,5 @@
 # Csharp-Documentation-Reader
-### Version: 1.0.1
+### Version: 1.1.0
 A tool for reading C# documentation and for keeping track of what I've
 already read.
 
@@ -27,6 +27,11 @@ the repository.
 4. os
 
 ### Versioning
+
+#### 1.1.0
+
+- Added a script to display a progress bar in the terminal showing the
+  number of articles read.
 
 #### 1.0.1
 
